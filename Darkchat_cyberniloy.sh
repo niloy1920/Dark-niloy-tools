@@ -4,6 +4,8 @@ clear
 
 pkg install figlet
 
+clear
+
 figlet DARK NILOY
 
 # Colors for output
